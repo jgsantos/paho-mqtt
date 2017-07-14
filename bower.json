@@ -1,7 +1,7 @@
 {
   "name": "paho-client",
   "description": "Paho Client Js Fulltime",
-  "main": "paho-mqtt.min.js",
+  "main": "paho-mqtt.js",
   "authors": [
     "João Gabriel Santos <joao.santos@fulltime.com.br>"
   ],
@@ -11,6 +11,5 @@
     "mqtt",
     "fullarm"
   ],
-  "homepage": "http://www.fulltime.com.br",
-  "private": true
+  "homepage": "http://www.fulltime.com.br"
 }
