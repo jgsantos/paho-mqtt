@@ -1,15 +1,14 @@
 {
   "name": "paho-client",
-  "description": "Paho Client Js Fulltime",
+  "description": "Paho Client Js",
   "main": "paho-mqtt.js",
   "authors": [
     "João Gabriel Santos <joao.santos@fulltime.com.br>"
   ],
-  "license": "Fulltime",
+  "license": "edl-v10",
   "keywords": [
     "paho",
     "mqtt",
-    "fullarm"
-  ],
-  "homepage": "http://www.fulltime.com.br"
+    "client"
+  ]
 }
